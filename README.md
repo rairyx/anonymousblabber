@@ -1,5 +1,5 @@
 # anonymousblabber
 Decentralized anonymous message broadcasting
 
-Decentralized communication network that anyone can publish/subscribe topic based messages anonymously 
+Decentralized communication network that anyone can broadcast/subscribe topic based messages anonymously 
 
