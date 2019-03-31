@@ -1,4 +1,4 @@
 # anonymousblabber
 
-Decentralized communication network that anyone can broadcast/subscribe messages anonymously 
+Decentralized messaging network that anyone can broadcast/subscribe messages anonymously 
 
